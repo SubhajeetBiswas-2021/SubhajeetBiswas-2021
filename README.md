@@ -2,7 +2,7 @@
 <h3 align="center">📱 Android Dev in Kotlin | Exploring advanced Java concepts| Always learning, always building</h3>
 <h3 align="center">Your friendly problem solver & tech enthusiast</h3>
 
-<p align="middle"> <img src="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif" alt="SubhajeetBiswas-2021" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajeetbiswas-2021&label=Profile%20views&color=0e75b6&style=flat" alt="subhajeetbiswas-2021" /> </p>
 
 - 🌱 I’m currently learning **TO STAY FOCUSSED**
