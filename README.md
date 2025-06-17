@@ -21,7 +21,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=SubhajeetBiswas-2021&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SubhajeetBiswas-2021&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SubhajeetBiswas-2021&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajeetBiswas-2021&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhajeetBiswas-2021&show_icons=true&locale=en&layout=compact" alt="SubhajeetBiswas-2021" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhajeetBiswas-2021&show_icons=true&locale=en" alt="SubhajeetBiswas-2021" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajeetBiswas-2021&" alt="SubhajeetBiswas-2021" /></p>
